@@ -1,3 +1,22 @@
+#header-img{
+    background-repeat: repeat-x;
+}
+
+a{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    padding: 50px;
+    width: 200px;
+}
+
+#nav-bar {
+    text-align: center;
+    position: fixed;
+    top: 0;
+}
+
 h2{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: xxx-large;

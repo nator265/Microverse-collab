@@ -1,3 +1,33 @@
+#contact{
+    background-color: black;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+#embed{
+    background-color: black ;
+}
+
+#header-image{
+    width: fit-content;
+}
+
+a{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    padding: 50px;
+}
+
+#nav-bar {
+    background-color: rgb(255, 59, 59);
+    text-align:center;
+    position: fixed;
+    top: 0;
+}
+
 h2{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: xxx-large;

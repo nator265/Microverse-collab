@@ -1,4 +1,11 @@
-#last{
+#contact{
+    background-color: black;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+#embed{
     background-color: black ;
 }
 
@@ -15,7 +22,6 @@ a{
 }
 
 #nav-bar {
-    padding:20px;
     background-color: rgb(255, 59, 59);
     text-align:center;
     position: fixed;

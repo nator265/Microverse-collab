@@ -1,5 +1,9 @@
-#header-img{
-    background-repeat: repeat-x;
+#last{
+    background-color: black ;
+}
+
+#header-image{
+    width: fit-content;
 }
 
 a{
@@ -8,11 +12,12 @@ a{
     font-size: large;
     text-align: center;
     padding: 50px;
-    width: 200px;
 }
 
 #nav-bar {
-    text-align: center;
+    padding:20px;
+    background-color: rgb(255, 59, 59);
+    text-align:center;
     position: fixed;
     top: 0;
 }
